@@ -1,5 +1,12 @@
 # CSE 6250 Project
 
+##
+
+How to pull data files:
+Install git lfs if not already installed (https://git-lfs.github.com/), then run
+
+`git lfs pull`
+
 ## Resources/Links
 
 - [CSE6250 Projects: Big Data Analytics for Healthcare](https://d1b10bmlvqabco.cloudfront.net/attach/jpbpri85qz97a/hknv39pnzou3m8/js4viv4i7cgc/CSE6250_project.pdf)
