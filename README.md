@@ -1,11 +1,5 @@
 # CSE 6250 Project
 
-##
-
-How to pull data files:
-Install git lfs if not already installed (https://git-lfs.github.com/), then run
-
-`git lfs pull`
 
 ## Resources/Links
 
