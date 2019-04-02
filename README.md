@@ -14,3 +14,4 @@
 - [Sample Papers for the project](https://drive.google.com/file/d/17MKum4lr4bhi8_sUwwqy5928rusQVWkG/view)
 - [Macallum 1999 (Source in #18)](https://www.eecs.yorku.ca/course_archive/2005-06/F/6002B/Readings/multilabel.pdf)
 - [Kim (Source in 18)](https://www.aclweb.org/anthology/D14-1181)
+- [The Big-&-Extending-Repository-of-Transformers: Pretrained PyTorch models for Google's BERT, OpenAI GPT & GPT-2, Google/CMU Transformer-XL](https://github.com/huggingface/pytorch-pretrained-BERT)
