@@ -16,3 +16,4 @@
 - [Kim (Source in 18)](https://www.aclweb.org/anthology/D14-1181)
 - [The Big-&-Extending-Repository-of-Transformers: Pretrained PyTorch models for Google's BERT, OpenAI GPT & GPT-2, Google/CMU Transformer-XL](https://github.com/huggingface/pytorch-pretrained-BERT)
 - [Multi-label Text Classification using BERT – The Mighty Transformer](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)
+- [Instructions to connect to GCP instance](https://docs.google.com/document/d/12HeC6NFJBoQZBCRjRCvvcUC4ZRSWP5Hw6i_m4UdnSWk/edit)
